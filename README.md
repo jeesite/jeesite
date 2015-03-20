@@ -1,1 +1,1 @@
-# <https://github.com/thinkgem/jeesite>
+# <http://jeesite.com>
